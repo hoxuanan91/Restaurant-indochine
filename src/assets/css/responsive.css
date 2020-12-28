@@ -1,0 +1,164 @@
+@media only screen and (max-width: 768px) {
+  #time-open #content-container .header img {
+    display: none !important;
+  }
+  #time-open .content > .sub-title {
+    margin-top: 0 !important;
+  }
+
+  #about-page .content-left {
+    width: 80% !important;
+    margin: auto;
+    text-align: center;
+    padding-left: 0px !important;
+  }
+  #about-page .content-full {
+    flex-wrap: wrap;
+    margin-left: 0 !important;
+  }
+  #about-page .content-full .left {
+    width: 80% !important;
+    margin: auto !important;
+  }
+  #about-page .content-full .right {
+    width: 80% !important;
+    margin: auto !important;
+    text-align: center;
+    margin-top: 20px !important;
+  }
+  #about-page{
+    background: none !important;
+  }
+  #about-page .content-full{
+    width: 80% !important;
+    margin: 28px auto !important;
+  }
+  #about-page #carousel-about {
+    width: 100% !important;
+    height: 250px !important;
+  }
+  #carousel-1 {
+    height: 400px !important;
+  }
+  #menu-page > .image-wrapper > div {
+    width: 50% !important;
+  }
+
+  #vertical-carousel {
+    margin-top: 15px !important;
+  }
+  #vertical-carousel .items > h4 {
+    font-size: 32px !important;
+  }
+  .slide-place-holder > .separator {
+    margin-top: -15px !important;
+  }
+  .slide-place-holder > .sub-title {
+    font-size: 22px !important;
+  }
+  .navbar.nav-header button {
+    background-color: #b8ab69 !important;
+    outline-color: #b8ab69 !important;
+  }
+  @media only screen and (max-width: 576px) {
+    #time-open #content-container .header {
+      font-size: 26px !important;
+    }
+    #time-open #content-container .header img {
+      display: none !important;
+    }
+    .slide-place-holder > .logo {
+      width: 100px !important;
+    }
+
+    #time-open .timing > .space {
+      background: none !important;
+      display: none !important;
+    }
+    #time-open .content > .sub-title {
+      margin-top: 0 !important;
+    }
+
+    #time-open .timing {
+      width: 100% !important;
+    }
+    #time-open .timing > .france {
+      width: 100% !important;
+      font-size: 32px !important;
+    }
+    #time-open .timing > .france > .time {
+      font-size: 28px !important;
+    }
+
+    #about-page .content,
+    #menu-page .content,
+    #reservation-page .content,
+    #location-page .content {
+      width: 100% !important;
+    }
+    #about-page .title,
+    #menu-page .title,
+    #reservation-page .title,
+    #location-page .title {
+      font-size: 25px !important;
+    }
+    #about-page #carousel-about {
+      height: 180px !important;
+    }
+
+    #carousel-reservation .comment {
+      font-size: 18px !important;
+    }
+    #carousel-reservation .author {
+      font-size: 18px !important;
+    }
+    #carousel-reservation .reservation-template {
+      padding: 0 7% !important;
+    }
+    #about-page .carousel .content-carousel .header-carousel,
+    #reservation-page .carousel .content-carousel .header-carousel {
+      font-size: 22px !important;
+    }
+
+    #time-open {
+      background-attachment: unset !important;
+    }
+
+    #reservation-page .carousel#reservation-carousel {
+      background-attachment: unset !important;
+    }
+    #vertical-carousel {
+      margin-top: 30px !important;
+    }
+    #vertical-carousel .items > h4 {
+      font-size: 18px !important;
+    }
+    .slide-place-holder > .separator {
+      margin-top: -11px !important;
+      height: 37px !important;
+    }
+    .slide-place-holder > .sub-title {
+      font-size: 18px !important;
+    }
+
+    #menu-page > .image-wrapper > div {
+      width: 100% !important;
+    }
+
+    #menu-page .content {
+      width: 100% !important;
+    }
+
+    #reservation-page .section-deliver {
+      width: 100% !important;
+    }
+    @media only screen and (max-width: 320px) {
+      #vertical-carousel .items > h4 {
+        font-size: 14px !important;
+      }
+      .slide-place-holder > .sub-title {
+        font-size: 15px !important;
+      }
+    }
+  }
+}
