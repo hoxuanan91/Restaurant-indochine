@@ -8,7 +8,7 @@
     <div class="content-left">
       <h2>The History</h2>
       <div class="text">
-        The <strong>History of Kitchens</strong> and Cooks gives further
+        The <strong>History of Kitchens TEST</strong> and Cooks gives further
         intimation on Mr Boulanger usual menu, stating confidently that
         «&nbsp;Boulanger served salted poultry and fresh eggs, all presented
         without a tablecloth on small marble tables&nbsp;». Numerous
